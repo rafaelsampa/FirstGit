@@ -1,2 +1,2 @@
-THis is my first file to commit with git !!!
+This is my first file to commit with git !!!
 
